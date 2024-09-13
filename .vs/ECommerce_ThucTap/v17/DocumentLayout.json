@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|d:\\thuctaptotnghiep\\project\\ecommerce_thuctap\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|d:\\thuctaptotnghiep\\project\\ecommerce_thuctap\\controllers\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|solutionrelative:controllers\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|d:\\thuctaptotnghiep\\project\\ecommerce_thuctap\\controllers\\saoke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|solutionrelative:controllers\\saoke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|d:\\thuctaptotnghiep\\project\\ecommerce_thuctap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|d:\\thuctaptotnghiep\\project\\ecommerce_thuctap\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|d:\\thuctaptotnghiep\\project\\ecommerce_thuctap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|d:\\thuctaptotnghiep\\project\\ecommerce_thuctap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|d:\\thuctaptotnghiep\\project\\ecommerce_thuctap\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{25EDCDBD-A648-4D9D-BA01-45418CE0B392}|ECommerce_ThucTap.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +51,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T18:31:17.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaoKe.cs",
+              "DocumentMoniker": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\Controllers\\SaoKe.cs",
+              "RelativeDocumentMoniker": "Controllers\\SaoKe.cs",
+              "ToolTip": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\Controllers\\SaoKe.cs",
+              "RelativeToolTip": "Controllers\\SaoKe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:24:03.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T18:10:40.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorld.cs",
+              "DocumentMoniker": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\Controllers\\HelloWorld.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloWorld.cs",
+              "ToolTip": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\Controllers\\HelloWorld.cs",
+              "RelativeToolTip": "Controllers\\HelloWorld.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:10:30.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T18:05:10.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-13T18:04:04.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T18:04:00.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ThucTapTotNghiep\\Project\\ECommerce_ThucTap\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:03:55.363Z",
+              "EditorCaption": ""
             }
           ]
         }
