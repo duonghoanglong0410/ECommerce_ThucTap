@@ -6,6 +6,7 @@ namespace ECommerce_ThucTap.Controllers
 	{
 		public IActionResult Index()
 		{
+			// Hehehe
 			return View();
 		}
 	}
